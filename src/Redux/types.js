@@ -1,0 +1,1 @@
+export const check_if_ble_device_exists = "CHECK_BLE_EXISTS"
